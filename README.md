@@ -44,6 +44,6 @@ additional Styling of the web application would be a further improvment as well.
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
 
-Here is the live link to Pages: [Scheduler| Bootcamp-Challenge-5 ]()
+Here is the live link to Pages: [Scheduler| Bootcamp-Challenge-5 ](https://chasqui10.github.io/scheduler-application-challenge/)
 
-Here is an image of the live Page for the challenge: ![Image of the Webpage]()
+Here is an image of the live Page for the challenge: ![Image of the Webpage](./assets/images/bootcamp-challenge-5-web-image.png)
